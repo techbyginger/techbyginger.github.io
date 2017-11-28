@@ -56,3 +56,6 @@ body{
     background: -moz-linear-gradient(top, #51616e, #2d4d66);
     background: linear-gradient(to bottom, #51616e, #2d4d66);
 }
+ul{
+    text-align: center;
+}
